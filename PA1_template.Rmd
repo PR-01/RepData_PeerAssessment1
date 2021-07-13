@@ -1,6 +1,8 @@
 ---
 title: "Assignment Week 2"
-output: html_document
+output: 
+        html_document:
+                keep_md: true
 ---
 
 ### Loading and processig the data
